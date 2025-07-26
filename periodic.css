@@ -1,0 +1,37 @@
+.alkali{
+    color: white;
+    background-color:rgb(247, 0, 0);
+}
+.down{
+    color: blue;
+    background-color: rgb(130, 255, 5);
+}
+.blu{
+    color: white;
+    background-color: rgb(86, 181, 240);
+}
+.yel{
+    color: white;
+    background-color:rgb(245, 23, 252);
+}
+.tab4 caption{
+    color: white;
+    background-color: black;
+    font-size: 30px;
+}
+/* table{
+    background-color: rgba(249, 131, 202, 0.299);
+} */
+.down:hover{
+    color: rgb(0, 0, 0);
+}
+.yel:hover{
+    color: black;
+}
+
+.alkali:hover{
+    color: black;
+}
+.blu:hover{
+    color: rgb(0, 0, 0);
+}
